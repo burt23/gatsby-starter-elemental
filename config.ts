@@ -1,6 +1,7 @@
 const siteMetadata = {
     title: `xo9 web`,
     siteUrl: `https://web.xo9.io`,
+    publicURL: `https://web.xo9.io`,
     capitalizeTitleOnHome: false,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
